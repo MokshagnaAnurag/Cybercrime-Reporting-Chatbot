@@ -30,7 +30,7 @@ The **Cybercrime Reporting Chatbot** is an **AI-powered system** designed to hel
 ### 🚀 Running the Application
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/cybercrime-reporting-chatbot.git
+    git clone https://github.com/MokshagnaAnurag/Cybercrime-Reporting-Chatbot.git
     cd cybercrime-reporting-chatbot
     ```
 
